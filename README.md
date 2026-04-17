@@ -32,4 +32,7 @@ The model achieves approximately 68% accuracy on the test dataset.
 ## Author
 Guelleh
 
+## Run on Google Colab
+https://colab.research.google.com/drive/1g5TwQw-CQxTL6GQfwh2uq7a2f3kxSBka?usp=sharing
+
 

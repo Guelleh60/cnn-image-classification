@@ -47,7 +47,7 @@ The CNN model consists of:
 ## 📊 Results
 The model achieved:
 
-Test Accuracy: XX%
+Test Accuracy: 68%
 
 👉 The model successfully learns basic image features but can be improved with deeper architectures or data augmentation.
 
@@ -70,7 +70,7 @@ Test Accuracy: XX%
 ---
 
 ## 🔗 Run on Google Colab
-(Paste your Colab link here)
+(https://colab.research.google.com/drive/1g5TwQw-CQxTL6GQfwh2uq7a2f3kxSBka?usp=sharing)
 
 ---
 

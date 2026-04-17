@@ -18,7 +18,7 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
 - Fully connected (Dense) layers
 
 ## Results
-The model achieves approximately XX% accuracy on the test dataset.
+The model achieves approximately 68% accuracy on the test dataset.
 
 ## How to Run
 1. Open the notebook in Google Colab
